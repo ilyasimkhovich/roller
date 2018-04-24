@@ -1,9 +1,14 @@
+//
+// this is a highly sophistamacated doo-whacky
+//
+
+
 package model;
 
 public class rollerRun {
 
-	public static void main(String[] args) {
-		System.out.println("this is a highly sophistamacated doo-whacky");
-	}
+public int[][] patternSequence = new int[128][512];	
+	
+//xxx
 
 }
